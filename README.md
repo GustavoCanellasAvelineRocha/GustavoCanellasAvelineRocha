@@ -1,13 +1,6 @@
 # Hello there! I’m Gustavo Canellas Aveline Rocha 👋
 
-- 👀 I’m looking for my first job
-- 🫶🏻 I’m interested in everything related to technology
-- 🌱 I'm currently learning Spring boot and other mechanisms
-
 <div> 
-    <a href="https://gustavocanellasavelinerocha.github.io/Pagina-Gustavo-Aveline/" target="_blank">
-      <img src="https://img.shields.io/badge/-Page-%239933FF?style=for-the-badge" target="_blank">
-    </a>
     <a href="https://www.instagram.com/gustavoaveline/" target="_blank">
       <img src="https://img.shields.io/badge/-GmaiL-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
